@@ -1,7 +1,6 @@
 {
   "name": "color-comverter",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.2",
   "main": "index.js",
   "scripts": {
     "test": "node test/test-index.js"
@@ -15,5 +14,13 @@
   "bugs": {
     "url": "https://github.com/yambal/Color-Comverter/issues"
   },
-  "homepage": "https://github.com/yambal/Color-Comverter#readme"
+  "homepage": "https://github.com/yambal/Color-Comverter#readme",
+  "dependencies": {
+    "user": "0.0.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "description": ""
 }
